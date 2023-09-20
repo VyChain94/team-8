@@ -93,8 +93,23 @@ class Game
         Console.WriteLine("-------------------------------------------------");
     }
 
+
     private static void printWelcomeMessage()
     {
+        Console.WriteLine("⢸⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⢟⣥⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⠈⢿⣿⣷⣄⠀⠀⠀⠀⠀⢀⣴⣿⣴⠟⣡⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⠀⠀⠹⣿⣿⣷⣄⠀⠀⠀⣸⣿⣿⣿⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⠀⠀⠀⠈⠻⠿⣿⣷⣄⠰⡿⠛⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⠀⠀⠀⠀⠀⠀⣠⣌⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⢀⣀⣀⣀⣀⣉⣉⣉⣀⣉⣉⣁⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⢸⠏⢉⣉⡉⠉⣉⣉⠉⣉⣉⠉⣉⣉⡉⠹⡇⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⠘⠀⠿⠿⠃⠸⠿⠿⠀⠿⠿⠀⠹⠿⠿⠀⠁⢸⠿⠿⠷⠦⠀⠀⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⢰⡆⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡆⢸⠀⣶⣶⣶⣆⠀⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⢸⡇⢠⣤⣥⣤⣤⣤⣤⣤⣤⣤⣤⣤⡄⢸⡇⢸⠀⠛⠛⠛⠛⠃⠀⠀⠀⠀⠀");
+        Console.WriteLine("⠀⢸⣧⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣼⡇⢸⣿⣿⣿⣿⣿⣿⣿⣶⣶⡄⠀");
+        Console.WriteLine("⠀⠘⢿⣿⣿⡿⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⡿⠛⠛⠛⢿⡇⠀");
+        Console.WriteLine("⠀⠀⠀⠈⠉⠀⣾⣿⡆⠈⠉⠉⠉⠉⠉⠉⠉⠁⠈⠉⠉⠉⠉⠀⢾⣿⡇⠈⠁⠀");
+        Console.WriteLine("⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⠉⠀⠀⠀⠀");
         Console.WriteLine("-------------------------------------------------");
         Console.WriteLine("LEVEL UP GAMES");
         Console.WriteLine("-------------------------------------------------");
