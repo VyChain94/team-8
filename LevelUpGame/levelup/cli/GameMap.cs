@@ -17,6 +17,6 @@ public static Dictionary<int,int> CreateMap(int GridUp, int GridOver)
             GridLocations.Add(I,H);
         }       
     }
-    return null;
+    return GridLocations;
 }
 }
