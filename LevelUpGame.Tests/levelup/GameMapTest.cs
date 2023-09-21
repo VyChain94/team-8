@@ -14,6 +14,7 @@ namespace levelup
         {
             testObj = new GameMap();
             testObj.numPositions = 1;
+            testObj.CurrentPosition (0, 1);
         }
 
         [Test]
