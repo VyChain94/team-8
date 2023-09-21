@@ -1,9 +1,9 @@
 using System.Drawing;
 
 public class Position{
-  Point coordfinates;  
+  Point coordinates;  
    
-public Point Postion(int xCoordinates, int yCoordinates) {
+public Point CurrentPosition(int xCoordinates, int yCoordinates) {
     return new Point (xCoordinates, yCoordinates);
 }
 }

@@ -7,12 +7,12 @@ namespace levelup
     [TestFixture]
     public class positionTest
     {
-        private position testObj;
+        private Position testObj;
 
         [SetUp]
         public void SetUp()
         {
-            testObj = new position();
+            testObj = new Position();
         }
 
         [Test]
@@ -20,7 +20,7 @@ namespace levelup
         {
             Point testPoint = new Point(0, 1);   
             #pragma warning disable CS8602 // Rethrow to preserve stack details
-            Assert.IsNotNull(testObj.Position(0, 1));
+            Assert.IsNotNull(testObj.CurrentPosition(0, 1));
         }
     }
 }
